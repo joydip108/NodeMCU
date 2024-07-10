@@ -21,4 +21,4 @@ This project demonstrates how to control four relays using a NodeMCU (ESP8266) b
 1. **Clone or Download the Repository:**
 
    ```sh
-   git clone https://github.com/your-repo/NodeMCU_Relay_Control.git
+   git clone https://github.com/joydip108/NodeMCU
